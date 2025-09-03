@@ -60,7 +60,9 @@ public class Pizza {
         return "Pizza{" + "nombre=" + nombre + ", tamano=" + tamano + ", masa=" + masa + '}';
     }
     
-    
+     public void calesntasdasdasdasdasdar(){
+        System.out.println("Se esta calentando la pizza");
+    }
     
 }
 
