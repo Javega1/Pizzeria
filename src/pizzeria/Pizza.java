@@ -36,9 +36,6 @@ public class Pizza {
         this.tamano = tamano;
     }
 
-    
-    
-
     public void preparar(){
         System.out.println("Se esta preparando la pizza sin argumentos");
     }
@@ -59,11 +56,7 @@ public class Pizza {
     public String toString() {
         return "Pizza{" + "nombre=" + nombre + ", tamano=" + tamano + ", masa=" + masa + '}';
     }
-    
-     public void calesntasdasdasdasdasdar(){
-        System.out.println("Se esta calentando la pizza");
-    }
-    
+ 
 }
 
 
